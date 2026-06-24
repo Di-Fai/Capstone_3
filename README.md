@@ -152,11 +152,11 @@ Relationships were created to connect fact and dimension tables.
 
 ### Relationships
 
-All Northeast Sales → Products
+All Northeast Sales - Products
 
 * Product Number
 
-All Northeast Sales → Store Locations
+All Northeast Sales - Store Locations
 
 * Store ID
 
