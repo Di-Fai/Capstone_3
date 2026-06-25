@@ -1,6 +1,6 @@
-# Capstone_3
 # Capstone 3 – Northeast Regional Sales Analysis with Power BI
 
+Video Presentation Link https://yearuptemp-my.sharepoint.com/:v:/g/personal/dnji_my_yearupunited_org/IQARQXuwRxNbRoaBs8t3A8NAAa9RPGHp7HxNaceTnRMc0N8?e=GGGjox
 ## Project Overview
 
 This project was completed as part of the Year Up United Data Analytics Training Academy Week 12 Capstone. The purpose of this project was to analyze EmporiUm sales data using Power BI and develop a business intelligence report that provides meaningful insights into sales performance within the Northeast Region.
